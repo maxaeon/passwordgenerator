@@ -3,3 +3,4 @@ A random password generator which allows the user to stipulate whether they want
 
 ![Screenshot (85)](https://user-images.githubusercontent.com/87254760/129246428-2a2ef3bf-e2ee-461a-b989-de365579d92a.png)
 
+Link: https://maxaeon.github.io/passwordgenerator
