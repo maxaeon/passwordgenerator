@@ -14,7 +14,13 @@ body,
 
 body {
   font-family: sans-serif;
-  background-color: #f9fbfd;
+  text-align: center;
+  color: darkblue;
+  background-color: lightblue;
+  margin: 10px;
+  border-radius: 15px;
+  border-width: 2px;
+  border-color: darkblue
 }
 
 .wrapper {
